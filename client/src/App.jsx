@@ -12,7 +12,7 @@ const App = () => {
   return (
     <AuthProvider>
       <ChatProvider>
-        <div className="bg-[url('./src/assets/bgImage.svg')] bg-cover min-h-screen">
+        <div className="bg-[url('/bgImage.svg')] bg-cover min-h-screen">
           <Routes>
             <Route path="/login" element={<LoginPage />} />
             <Route
