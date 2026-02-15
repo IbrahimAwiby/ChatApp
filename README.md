@@ -251,4 +251,4 @@ Your Name
 GitHub: [https://github.com/IbrahimAwiby ]
 Email: ibrabasm4456@gmail.com  
 
-Project Link: [https://github.com/yourusername/chat-app](https://chat-app-frontend-rust-theta.vercel.app)
+Project Link: [https://github.com/IbrahimAwiby/chat-app]
